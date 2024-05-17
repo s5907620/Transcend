@@ -1,0 +1,23 @@
+<Transcend>
+	<product1>
+		<SN>D611755-0218</SN>
+		<PN>TS32GJDG500S</PN>
+		<IO>Lightning</IO>
+		<CTL>Apple CTL</CTL>
+		<FW>v3.1</FW>
+	</product1>
+	<product2>
+		<SN>G223466-9999</SN>
+		<PN>TS-DP250A-32G</PN>
+		<IO>USB</IO>
+		<CTL>DP CTL</CTL>
+		<FW>v1.0</FW>
+	</product2>
+	<product3>
+		<SN>D123456-7788</SN>
+		<PN>TS512GSSD370S</PN>
+		<IO>SATA3</IO>
+		<CTL>SSD CTL</CTL>
+		<FW>v2.0</FW>
+	</product3>
+</Transcend>
